@@ -1,2 +1,3 @@
 I added this thing
 Added a second line.
+Added a third line in master branch.
